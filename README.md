@@ -1,5 +1,6 @@
 # penginengineering
 ペンギンエンジニアリングのページです。
+
 ![image](https://github.com/higakikeita/penginengineering/assets/41051390/7d01f588-797e-4ad9-960f-9964b912f02e)
 
 
@@ -22,4 +23,9 @@ https://qiita.com/ymd65536
 山田顕人
 満村雄二
 
+SNS
+https://twitter.com/keitah0322
+https://twitter.com/ymd65536
+https://twitter.com/Chanmitsu_sys
+https://twitter.com/ksawada1979
 
