@@ -1,5 +1,7 @@
 # penginengineering
 ペンギンエンジニアリングのページです。
+![image](https://github.com/higakikeita/penginengineering/assets/41051390/7d01f588-797e-4ad9-960f-9964b912f02e)
+
 
 # 我々の説明
 ペンギンエンジニアリングは技術記事の執筆のための有志の集いです。
